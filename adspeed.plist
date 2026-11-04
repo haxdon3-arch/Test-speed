@@ -1,0 +1,7 @@
+{
+    Filter =     {
+        Bundles =         (
+            "ru.malyshkin.survival"
+        );
+    };
+}
